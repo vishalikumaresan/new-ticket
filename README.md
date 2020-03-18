@@ -1,2 +1,2 @@
 # new-ticket
-ticket repo
+ticket repo for git commands demonstration
